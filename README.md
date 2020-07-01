@@ -1,0 +1,2 @@
+# smalljavascriptprojects.github.io
+Here is provided small javascript projects for all biggners and dovelopers. like Calculator, Tipcalculator, Change background color, Clock(digital and wall clock), image sliders, rating system, navbar and many more. these all projects help you to good practice for developing your skills and your growth. I promised you to guy's your javascript basic will clear after completing these small projects and you will get confidence.
